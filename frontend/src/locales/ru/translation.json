@@ -1,0 +1,126 @@
+{
+  "common": {
+    "login": "Войти",
+    "logout": "Выйти",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "search": "Поиск",
+    "loading": "Загрузка...",
+    "welcome": "Добро пожаловать",
+    "all": "Все",
+    "actions": "Действия",
+    "add": "Добавить",
+    "delete": "Удалить",
+    "pay": "Оплатить",
+    "confirm_delete": "Удалить?",
+    "confirm_pay": "Отметить как оплачено?",
+    "error": "Ошибка",
+    "select": "Выберите",
+    "back": "Назад"
+  },
+  "auth": {
+    "school_slug": "Название школы (slug)",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "login_title": "Вход в систему",
+    "demo_hint": "Демо-аккаунты",
+    "create_school": "Создать новую школу",
+    "register_title": "Создать школу",
+    "register_subtitle": "Зарегистрируйте свою образовательную платформу",
+    "school_name": "Название школы",
+    "school_slug_label": "Slug (латиница, для входа)",
+    "owner_name": "ФИО директора",
+    "owner_email": "Email директора",
+    "owner_password": "Пароль",
+    "register_btn": "Создать школу",
+    "register_success": "Школа создана! Теперь войдите.",
+    "register_error": "Ошибка регистрации",
+    "back_to_login": "Назад к входу",
+    "creating": "Создание..."
+  },
+  "roles": {
+    "owner": "Директор",
+    "teacher": "Учитель",
+    "student": "Ученик"
+  },
+  "nav": {
+    "dashboard": "Главная",
+    "schedule": "Расписание",
+    "grades": "Оценки",
+    "debts": "Книга долгов",
+    "students": "Ученики",
+    "courses": "Курсы",
+    "attendance": "Посещаемость"
+  },
+  "dashboard": {
+    "title": "Панель управления",
+    "students_count": "Учеников",
+    "courses_count": "Курсов",
+    "overdue_count": "Просроченных платежей",
+    "recent_grades": "Последние оценки"
+  },
+  "debts": {
+    "title": "Книга долгов",
+    "amount": "Сумма",
+    "due_date": "Срок оплаты",
+    "status_pending": "Ожидает оплаты",
+    "status_overdue": "Просрочено",
+    "status_paid": "Оплачено",
+    "student": "Ученик",
+    "course": "Курс",
+    "pay": "Оплатить"
+  },
+  "grades": {
+    "title": "Электронный дневник",
+    "date": "Дата",
+    "course": "Курс",
+    "grade": "Оценка",
+    "comment": "Комментарий",
+    "student": "Ученик",
+    "add": "Поставить оценку",
+    "student_course": "Ученик / Курс"
+  },
+  "schedule": {
+    "title": "Расписание",
+    "day": "День",
+    "time": "Время",
+    "room": "Кабинет",
+    "group": "Группа",
+    "add": "Добавить занятие",
+    "start": "Начало",
+    "end": "Конец",
+    "confirm_delete": "Удалить занятие из расписания?",
+    "days": ["Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье"]
+  },
+  "students": {
+    "title": "Ученики",
+    "name": "ФИО",
+    "email": "Email",
+    "add": "Добавить ученика",
+    "enroll": "Записать на курс",
+    "password": "Пароль",
+    "confirm_expel": "Отчислить ученика?",
+    "enrolled": "Ученик записан на курс!"
+  },
+  "courses": {
+    "title": "Курсы",
+    "price": "Цена в месяц",
+    "description": "Описание",
+    "add": "Добавить курс",
+    "name": "Название",
+    "confirm_delete": "Удалить курс?"
+  },
+  "attendance": {
+    "title": "Посещаемость",
+    "add": "Отметить",
+    "date": "Дата",
+    "student": "Ученик",
+    "course": "Курс",
+    "status": "Статус",
+    "present": "Присутствовал",
+    "late": "Опоздал",
+    "absent": "Отсутствовал",
+    "student_course": "Ученик / Курс",
+    "empty": "Пока нет записей"
+  }
+}

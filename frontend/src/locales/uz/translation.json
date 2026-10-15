@@ -1,0 +1,126 @@
+{
+  "common": {
+    "login": "Kirish",
+    "logout": "Chiqish",
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "search": "Qidirish",
+    "loading": "Yuklanmoqda...",
+    "welcome": "Xush kelibsiz",
+    "all": "Hammasi",
+    "actions": "Amallar",
+    "add": "Qo'shish",
+    "delete": "O'chirish",
+    "pay": "To'lash",
+    "confirm_delete": "O'chirilsinmi?",
+    "confirm_pay": "To'langan deb belgilansinmi?",
+    "error": "Xato",
+    "select": "Tanlang",
+    "back": "Orqaga"
+  },
+  "auth": {
+    "school_slug": "Maktab nomi (slug)",
+    "email": "Elektron pochta",
+    "password": "Parol",
+    "login_title": "Tizimga kirish",
+    "demo_hint": "Demo hisoblar",
+    "create_school": "Yangi maktab yaratish",
+    "register_title": "Maktab yaratish",
+    "register_subtitle": "O'z ta'lim platformangizni ro'yxatdan o'tkazing",
+    "school_name": "Maktab nomi",
+    "school_slug_label": "Slug (lotincha, kirish uchun)",
+    "owner_name": "Direktor F.I.Sh.",
+    "owner_email": "Direktor email",
+    "owner_password": "Parol",
+    "register_btn": "Maktab yaratish",
+    "register_success": "Maktab yaratildi! Endi tizimga kiring.",
+    "register_error": "Ro'yxatdan o'tishda xato",
+    "back_to_login": "Kirish sahifasiga",
+    "creating": "Yaratilmoqda..."
+  },
+  "roles": {
+    "owner": "Direktor",
+    "teacher": "O'qituvchi",
+    "student": "O'quvchi"
+  },
+  "nav": {
+    "dashboard": "Bosh sahifa",
+    "schedule": "Dars jadvali",
+    "grades": "Baholar",
+    "debts": "Qarzlar kitobi",
+    "students": "O'quvchilar",
+    "courses": "Kurslar",
+    "attendance": "Davomat"
+  },
+  "dashboard": {
+    "title": "Boshqaruv paneli",
+    "students_count": "O'quvchilar",
+    "courses_count": "Kurslar",
+    "overdue_count": "Muddati o'tgan to'lovlar",
+    "recent_grades": "So'nggi baholar"
+  },
+  "debts": {
+    "title": "Qarzlar kitobi",
+    "amount": "Summa",
+    "due_date": "To'lov muddati",
+    "status_pending": "To'lov kutilmoqda",
+    "status_overdue": "Muddati o'tgan",
+    "status_paid": "To'langan",
+    "student": "O'quvchi",
+    "course": "Kurs",
+    "pay": "To'lash"
+  },
+  "grades": {
+    "title": "Elektron kundalik",
+    "date": "Sana",
+    "course": "Kurs",
+    "grade": "Baho",
+    "comment": "Izoh",
+    "student": "O'quvchi",
+    "add": "Baho qo'yish",
+    "student_course": "O'quvchi / Kurs"
+  },
+  "schedule": {
+    "title": "Dars jadvali",
+    "day": "Kun",
+    "time": "Vaqt",
+    "room": "Xona",
+    "group": "Guruh",
+    "add": "Dars qo'shish",
+    "start": "Boshlanish",
+    "end": "Tugash",
+    "confirm_delete": "Dars jadvaldan o'chirilsinmi?",
+    "days": ["Dushanba", "Seshanba", "Chorshanba", "Payshanba", "Juma", "Shanba", "Yakshanba"]
+  },
+  "students": {
+    "title": "O'quvchilar",
+    "name": "F.I.Sh.",
+    "email": "Email",
+    "add": "O'quvchi qo'shish",
+    "enroll": "Kursga yozish",
+    "password": "Parol",
+    "confirm_expel": "O'quvchi chiqarilsinmi?",
+    "enrolled": "O'quvchi kursga yozildi!"
+  },
+  "courses": {
+    "title": "Kurslar",
+    "price": "Oylik narxi",
+    "description": "Tavsif",
+    "add": "Kurs qo'shish",
+    "name": "Nomi",
+    "confirm_delete": "Kurs o'chirilsinmi?"
+  },
+  "attendance": {
+    "title": "Davomat",
+    "add": "Belgilash",
+    "date": "Sana",
+    "student": "O'quvchi",
+    "course": "Kurs",
+    "status": "Holat",
+    "present": "Qatnashdi",
+    "late": "Kechikdi",
+    "absent": "Qatnashmadi",
+    "student_course": "O'quvchi / Kurs",
+    "empty": "Hali yozuvlar yo'q"
+  }
+}
